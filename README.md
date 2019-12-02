@@ -1,3 +1,3 @@
 # notes_java
 
-These are the notes while I was going through my thrird year university exam
+These are the notes while I was going through my third year university exam
